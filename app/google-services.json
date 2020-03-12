@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "423240393556",
+    "firebase_url": "https://fir-projeto-da4db.firebaseio.com",
+    "project_id": "fir-projeto-da4db",
+    "storage_bucket": "fir-projeto-da4db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423240393556:android:f1cc27bbd8e3ac7da41ec1",
+        "android_client_info": {
+          "package_name": "br.com.lucasferreira"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423240393556-2uhf0euh7hs58fhbo14dosj8r1dg8mge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpL4VoGAPlhpTt_UwZtmDWxkToOhEFA7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423240393556-2uhf0euh7hs58fhbo14dosj8r1dg8mge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
